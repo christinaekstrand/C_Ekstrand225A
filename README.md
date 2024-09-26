@@ -1,4 +1,4 @@
-# C_Ekstrand225A
+# Christina Ekstrand
 
 + This is my repo for BMS 225A - Data Science. My work is organized as follows:
 
